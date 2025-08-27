@@ -1,12 +1,12 @@
  #include <stdio.h>
 
 int main(){
-   char Estado[20] = "Pernambuco";
-   char codigo[20] = "A01";
-   char Nome_da_cidade[20] = "Recife";
-   int Populacao = 1645727;
-   float Area = 2185.3;
-   float PIB = 200.5;
+   char Estado[20] = "Paraiba";
+   char codigo[20] = "A02";
+   char Nome_da_cidade[20] = "João pessoa";
+   int Populacao = 88800;
+   float Area = 211;
+   float PIB = 20.7;
    int Números_De_Pontos_Turísticos = 10;
 
    printf("Estado: %s\n", Estado);
